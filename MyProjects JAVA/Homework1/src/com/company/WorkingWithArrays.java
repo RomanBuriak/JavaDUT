@@ -8,27 +8,20 @@ public class WorkingWithArrays {
     int to_what_value = 9;
     int[][] CreateArray(){
         Scanner in = new Scanner(System.in);
-        int m, n;
-        System.out.print("Количество рядков:");
-        m = in.nextInt();
-        System.out.print("Количество столбцов:");
+        int n;
+        System.out.print("Введіть кількість рядків і колонок: ");
         n = in.nextInt();
-        boolean array_is_square_or_not = false;
-        while(array_is_square_or_not != true){
-            if(m != n){
-                System.out.print("Количество рядков:");
-                m = in.nextInt();
-                System.out.print("Количество столбцов:");
+        boolean correct_number_of_rows_and_columns = false;
+        while(correct_number_of_rows_and_columns != true) {
+            if (n <= 0) {
+                System.out.println("Кількість не повинна дорівнювати нулю чи бути меншою за нуль. Спробуйте ще!");
+                System.out.print("Введіть кількість рядків і колонок: ");
                 n = in.nextInt();
-
-                System.out.print("Количество рядков и столбцов должно быть одинаковым. Попробуй еще!");
-            }
-            else{
-                array_is_square_or_not = true;
+            } else {
+                correct_number_of_rows_and_columns = true;
             }
         }
-
-        return new int[m][n];
+        return new int[n][n];
 
     }
     void FillingTheArrayRandomly(int[][] arr){
