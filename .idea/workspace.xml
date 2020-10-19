@@ -18,6 +18,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -35,9 +36,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1010" y="257" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1602530005370" />
-    <state x="613" y="136" key="new project wizard" timestamp="1602530008417">
+    <state x="685" y="134" key="new project wizard" timestamp="1603133815441">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="613" y="136" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1602530008417" />
+    <state x="685" y="134" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1603133815441" />
   </component>
 </project>
