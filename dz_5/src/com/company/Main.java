@@ -14,7 +14,7 @@ public class Main {
 
         //task2
         task_2 t_3 = new task_2();
-        int[] arr_3 = new int[]{7, 0, 8, 1, 6, 2, 3, 5};
+        int[] arr_3 = new int[]{5, 3, 2, 8, 1, 4};
         int[] arr_4 = t_3.sortArray(arr_3);
         for (int i = 0; i < arr_4.length; i++) {
             System.out.print(arr_4[i] + " ");

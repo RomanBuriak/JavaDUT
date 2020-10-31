@@ -1,14 +1,28 @@
 package com.company;
+import java.io.*;
+import java.util.ArrayList;
 
 public class Main {
 
     public static void main(String[] args) {
-	// write your code here
-        ArrayList<String> arrlist = new ArrayList<String>();
-        arrlist.add("Hello");
-        arrlist.add("You");
-        arrlist.remove();
-        System.out.println(arrlist);
+
+        WorkWithArrayList wwal = new WorkWithArrayList();
+        WorkWithLinkedList wwll = new WorkWithLinkedList();
+        SerializationUtil su = new SerializationUtil();
+
+        wwal.AddItem();
+        wwal.RemoveItem();
+        wwal.OutListSize();
+        wwal.CheckContainList();
+
+        wwll.AddItem();
+        wwll.RemoveItem();
+        wwll.OutListSize();
+        wwll.CheckContainList();
+
+        su.SerializationMethod();
+        su.DeserializationMethod();
+
     }
 }
 

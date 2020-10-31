@@ -1,5 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:master" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="429c1da5-4ab2-46f8-ba81-94c81a4cbe70" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,7 +42,11 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="JAVA" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -31,14 +59,62 @@
     </task>
     <servers />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="1010" y="257" key="FileChooserDialogImpl" timestamp="1602530005370">
+    <state x="656" y="206" key="#Inspections" timestamp="1603368392173">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1010" y="257" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1602530005370" />
-    <state x="685" y="134" key="new project wizard" timestamp="1603133815441">
+    <state x="656" y="206" key="#Inspections/0.0.1920.1040@0.0.1920.1040" timestamp="1603368392173" />
+    <state x="484" y="182" width="1092" height="715" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603369140767">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="685" y="134" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1603133815441" />
+    <state x="484" y="182" width="1092" height="715" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1603369140767" />
+    <state x="810" y="232" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1603368151087">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="810" y="232" key="#com.intellij.ide.macro.MacrosDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1603368151087" />
+    <state x="759" y="329" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1603369139025">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="759" y="329" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1603369139025" />
+    <state x="1010" y="257" key="FileChooserDialogImpl" timestamp="1603368478504">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1010" y="257" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1603368478504" />
+    <state x="510" y="102" key="SettingsEditor" timestamp="1603368104984">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="510" y="102" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1603368104984" />
+    <state x="685" y="134" key="new project wizard" timestamp="1603368555996">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="685" y="134" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1603368555996" />
+    <state x="686" y="246" key="run.anything.popup" timestamp="1603367832411">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="686" y="246" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1603367832411" />
   </component>
 </project>

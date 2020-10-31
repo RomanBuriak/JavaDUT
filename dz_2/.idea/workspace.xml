@@ -25,6 +25,13 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
@@ -34,8 +41,11 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
   <component name="RunManager">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+    <configuration name="Main" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="com.company.Main" />
       <module name="dz_2" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
@@ -67,5 +77,28 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1603737814125">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1603737814125" />
+    <state width="1340" height="160" key="GridCell.Tab.0.bottom" timestamp="1603739372739">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1340" height="160" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1603739372739" />
+    <state width="1340" height="160" key="GridCell.Tab.0.center" timestamp="1603739372739">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1340" height="160" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1603739372739" />
+    <state width="1340" height="160" key="GridCell.Tab.0.left" timestamp="1603739372738">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1340" height="160" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1603739372738" />
+    <state width="1340" height="160" key="GridCell.Tab.0.right" timestamp="1603739372739">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1340" height="160" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1603739372739" />
   </component>
 </project>
