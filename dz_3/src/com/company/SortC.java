@@ -1,10 +1,16 @@
 package com.company;
 
-import java.util.ArrayList;
+
 import java.util.List;
+
 
 public class SortC {
     public void sort_c(List<String> myList){
+
+        myList.stream().sorted().filter(x -> x.charAt(0)=='c').forEach(System.out::println);
+
+
+        /*
         String s;
         String[] arrC = {"c1", "c2", "c3", "c4", "c5", "c6", "c7", "c8", "c9"};
         String[] arrbigC = {"C1", "C2", "C3", "C4", "C5", "C6", "C7", "C8", "C9"};
@@ -39,6 +45,8 @@ public class SortC {
 
 
         System.out.println(sort);
+
+         */
     }
 
 

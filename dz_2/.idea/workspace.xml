@@ -42,7 +42,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../dz_3" />
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application">
@@ -80,25 +80,29 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1603737814125">
+    <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1604354957216">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1603737814125" />
-    <state width="1340" height="160" key="GridCell.Tab.0.bottom" timestamp="1603739372739">
+    <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1604354957216" />
+    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1604516134434">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1340" height="160" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1603739372739" />
-    <state width="1340" height="160" key="GridCell.Tab.0.center" timestamp="1603739372739">
+    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1604516134434" />
+    <state width="1131" height="160" key="GridCell.Tab.0.bottom" timestamp="1604358633059">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1340" height="160" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1603739372739" />
-    <state width="1340" height="160" key="GridCell.Tab.0.left" timestamp="1603739372738">
+    <state width="1131" height="160" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1604358633059" />
+    <state width="1131" height="160" key="GridCell.Tab.0.center" timestamp="1604358633059">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1340" height="160" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1603739372738" />
-    <state width="1340" height="160" key="GridCell.Tab.0.right" timestamp="1603739372739">
+    <state width="1131" height="160" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1604358633059" />
+    <state width="1131" height="160" key="GridCell.Tab.0.left" timestamp="1604358633059">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1340" height="160" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1603739372739" />
+    <state width="1131" height="160" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1604358633059" />
+    <state width="1131" height="160" key="GridCell.Tab.0.right" timestamp="1604358633059">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1131" height="160" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1604358633059" />
   </component>
 </project>

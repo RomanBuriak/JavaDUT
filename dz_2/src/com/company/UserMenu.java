@@ -16,7 +16,7 @@ public class UserMenu {
 
         switch (numberAction){
             case 1:
-                WorkWithArrayList wwal = new WorkWithArrayList();
+
                 System.out.println("1. Add item to ArrayList");
                 System.out.println("2. Remove item from ArrayList");
                 System.out.println("3. Print the size of the ArrayList");
@@ -24,7 +24,7 @@ public class UserMenu {
                 System.out.println("Choose what you want:");
                 break;
             case 2:
-                WorkWithLinkedList wwll = new WorkWithLinkedList();
+
                 System.out.println("1. Add item to LinkedList");
                 System.out.println("2. Remove item from LinkedList");
                 System.out.println("3. Print the size of the LinkedList");

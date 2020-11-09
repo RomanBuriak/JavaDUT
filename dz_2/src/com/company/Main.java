@@ -6,19 +6,31 @@ public class Main {
 
     public static void main(String[] args) {
 
-        WorkWithArrayList wwal = new WorkWithArrayList();
-        WorkWithLinkedList wwll = new WorkWithLinkedList();
+        MyArrayList<Integer> mal = new MyArrayList<Integer>();
+        MyLinkedList<Integer> mll = new MyLinkedList<Integer>();
         SerializationUtil su = new SerializationUtil();
 
-        wwal.AddItem();
-        wwal.RemoveItem();
-        wwal.OutListSize();
-        wwal.CheckContainList();
+        mal.add(1);
+        mal.add(1);
+        mal.add(1);
+        mal.remove(1);
+        System.out.println(mal.size());
+        System.out.println(mal.contains(1));
+        System.out.println();
 
-        wwll.AddItem();
-        wwll.RemoveItem();
-        wwll.OutListSize();
-        wwll.CheckContainList();
+
+
+        mll.add(1);
+        mll.add(1);
+        mll.add(1);
+        mll.add(1);
+        mll.add(1);
+        mll.add(1);
+        mll.remove(0);
+
+        System.out.println(mll.size());
+
+        System.out.println(mll.contains(1));
 
         su.SerializationMethod();
         su.DeserializationMethod();
