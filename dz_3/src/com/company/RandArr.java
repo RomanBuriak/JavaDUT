@@ -7,16 +7,16 @@ import java.util.stream.Stream;
 
 public class RandArr {
     public void fillingTheArrayAndArithmeticMeanOfAllPairedNumbers(int n){
+
+
+
+
         List<Integer> list = Stream.generate(() -> (int) Math.round((Math.random() * 9))).limit(n).collect(Collectors.toList());
         list.forEach(System.out::println);
-        Optional<Integer> sum = (list.stream().reduce(Integer::sum));
-        float arithmeticMean = 0;
-        if(sum.isPresent())
-        {
-            arithmeticMean = (float)sum.get() / n;
-        }
+        System.out.println();
+        list.stream().filter(x->(x%2)==0).mapToInt((x)->Integer.parseInt((String.valueOf(x)))).average().ifPresent(System.out::println);
 
-        System.out.println("ArithmeticMeanAllPairedNumbers = " + arithmeticMean);
+
 
 
         /*

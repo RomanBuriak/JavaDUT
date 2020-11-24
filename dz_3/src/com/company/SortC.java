@@ -7,7 +7,7 @@ import java.util.List;
 public class SortC {
     public void sort_c(List<String> myList){
 
-        myList.stream().sorted().filter(x -> x.charAt(0)=='c').forEach(System.out::println);
+        myList.stream().sorted().filter(x -> x.charAt(0)=='c').map(String::toUpperCase).forEach(System.out::println);
 
 
         /*
