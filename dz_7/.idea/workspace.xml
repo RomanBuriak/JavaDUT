@@ -42,7 +42,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../dz_6" />
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
@@ -97,10 +97,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1078" y="246" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1604082837743" />
-    <state x="810" y="282" key="FileChooserDialogImpl" timestamp="1604337484795">
+    <state x="810" y="282" key="FileChooserDialogImpl" timestamp="1606747260969">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="810" y="282" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1604337484795" />
+    <state x="810" y="282" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1606747260969" />
     <state width="1877" height="197" key="GridCell.Tab.0.bottom" timestamp="1604388005034">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -133,6 +133,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1131" height="327" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1604337487524" />
+    <state x="342" y="140" key="new project wizard" timestamp="1606748474452">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="342" y="140" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1606748474452" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
